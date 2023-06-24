@@ -18,14 +18,5 @@
     <ClCompile Include="pong.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="ball.c">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="field.c">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="my_main.c">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>

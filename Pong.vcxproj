@@ -129,9 +129,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ball.c" />
-    <ClCompile Include="field.c" />
-    <ClCompile Include="my_main.c" />
     <ClCompile Include="pong.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
